@@ -3,7 +3,7 @@ CrowdSim
 
 This folder contains a unity project that implements a crowd simulation in arbitrary environments. 
 
-ETLC-Sim.exe is a prebuilt set binaries containing a sample of our simulation in the entryway of ETLC. You can view the scene used to create the binaries if you launch Unity/Assets/ETLC.unity in the Unity editor. It has only been tested with version 4.3.4f1.
+ETLC-Sim.exe is a prebuilt set binaries containing a sample of our simulation in the entryway of the University of Alberta's Engineering Teaching and Learning Complex. You can view the scene used to create the binaries if you launch Unity/Assets/ETLC.unity in the Unity editor. It has only been tested with version 4.3.4f1.
 
 
 
@@ -37,3 +37,11 @@ Code
 Source code resides in Unity/Assets/Code
 
 The first piece of code called is SetupEnvironment.cs. This initializes the tile grid and Simulation.cs, which runs the simulation.
+
+
+Credit
+======
+
+Code: Tim Griffith
+Modelling: Nick Klose
+Animations: Andrew Neufeld
